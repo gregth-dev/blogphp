@@ -1,0 +1,7 @@
+.list-group-item:hover{
+    background: rgba(13, 114, 247, 0.993);
+    color:white; 
+}
+#inputGroupFile01{
+    cursor: pointer;
+}
